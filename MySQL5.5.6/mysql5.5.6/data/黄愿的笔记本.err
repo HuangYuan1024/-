@@ -1,0 +1,32 @@
+240408  9:10:14 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The InnoDB memory heap is disabled
+InnoDB: Mutexes and rw_locks use Windows interlocked functions
+InnoDB: Compressed tables use zlib 1.2.3
+240408  9:10:14  InnoDB: highest supported file format is Barracuda.
+240408  9:10:14  InnoDB: Operating system error number 2 in a file operation.
+InnoDB: Some operating system error numbers are described at
+InnoDB: http://dev.mysql.com/doc/refman/5.1/en/operating-system-error-codes.html
+240408  9:10:14  InnoDB: Error: trying to open a table, but could not
+InnoDB: open the tablespace file '.\db1\sc.ibd'!
+InnoDB: Have you moved InnoDB .ibd files around without using the
+InnoDB: commands DISCARD TABLESPACE and IMPORT TABLESPACE?
+InnoDB: It is also possible that this is a temporary table #sql...,
+InnoDB: and MySQL removed the .ibd file for this.
+InnoDB: Please refer to
+InnoDB: http://dev.mysql.com/doc/refman/5.1/en/innodb-troubleshooting-datadict.html
+InnoDB: for how to resolve the issue.
+240408  9:10:14 InnoDB 1.1.2 started; log sequence number 9439616
+240408 10:37:38 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The InnoDB memory heap is disabled
+InnoDB: Mutexes and rw_locks use Windows interlocked functions
+InnoDB: Compressed tables use zlib 1.2.3
+240408 10:37:38  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+240408 14:37:23 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The InnoDB memory heap is disabled
+InnoDB: Mutexes and rw_locks use Windows interlocked functions
+InnoDB: Compressed tables use zlib 1.2.3
+240408 14:37:23  InnoDB: highest supported file format is Barracuda.
+240408 14:37:23 InnoDB 1.1.2 started; log sequence number 9470379

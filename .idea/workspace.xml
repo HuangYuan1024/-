@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="394c0dba-463f-4d33-acca-3e81bb8a6418" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/Navicat for MySQL/dparser.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/Navicat for MySQL/freetype6.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/Navicat for MySQL/key.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/Navicat for MySQL/libcairo-2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/Navicat for MySQL/libcurl.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/Navicat for MySQL/libdd.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/Navicat for MySQL/libeay32.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/Navicat for MySQL/libexpat-1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/Navicat for MySQL/libfontconfig-1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/Navicat for MySQL/libmysql_d.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/Navicat for MySQL/libpng14-14.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/Navicat for MySQL/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/Navicat for MySQL/msvcp100.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/Navicat for MySQL/msvcr100.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/Navicat for MySQL/navicat.chm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/Navicat for MySQL/navicat.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/Navicat for MySQL/navicatelevation.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/Navicat for MySQL/nparser.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/Navicat for MySQL/ntunnel_mysql.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/Navicat for MySQL/registration.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/Navicat for MySQL/scilexer.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/Navicat for MySQL/sqlite3.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/Navicat for MySQL/ssleay32.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/Navicat for MySQL/support.url" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/Navicat for MySQL/unins000.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/Navicat for MySQL/unins000.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/Navicat for MySQL/unins000.msg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/Navicat for MySQL/zlib1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/PStart.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/PStart.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/COPYING" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/bin/mysqladmin.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/bin/mysqld.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/db.opt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbassets.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbassets.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbcountdetail.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbcountdetail.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbcountinfo.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbcountinfo.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbdeviceinfo.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbdeviceinfo.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbdeviceopt.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbdeviceopt.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbfacturer.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbfacturer.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbfaultinfo.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbfaultinfo.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbgenid.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbgenid.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbinstoragesum.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbinstoragesum.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbinventorysum.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbinventorysum.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbmembership.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbmembership.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbmodel.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbmodel.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbmovementinfo.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbmovementinfo.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tboperlog.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tboperlog.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tborgan.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tborgan.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbosmenu.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbosmenu.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbosmenufun.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbosmenufun.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbosmenugroup.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbosmenugroup.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbosrole.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbosrole.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbosrolemenu.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbosrolemenu.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbosuser.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbosuser.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tboutstoragesum.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tboutstoragesum.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tboutunit.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tboutunit.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbrepealinfo.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbrepealinfo.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbreplaceinfo.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbreplaceinfo.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbscanner.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbscanner.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbscanneruser.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbscanneruser.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbstocktake.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/tbstocktake.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/vmodelinfo.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/vscannerinfo.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ams/vuserinfo.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ib_logfile0" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ib_logfile1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/ibdata1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/columns_priv.MYD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/columns_priv.MYI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/columns_priv.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/db.MYD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/db.MYI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/db.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/event.MYD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/event.MYI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/event.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/func.MYD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/func.MYI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/func.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/general_log.CSM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/general_log.CSV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/general_log.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/help_category.MYD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/help_category.MYI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/help_category.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/help_keyword.MYD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/help_keyword.MYI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/help_keyword.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/help_relation.MYD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/help_relation.MYI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/help_relation.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/help_topic.MYD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/help_topic.MYI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/help_topic.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/host.MYD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/host.MYI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/host.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/ndb_binlog_index.MYD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/ndb_binlog_index.MYI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/ndb_binlog_index.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/plugin.MYD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/plugin.MYI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/plugin.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/proc.MYD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/proc.MYI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/proc.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/procs_priv.MYD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/procs_priv.MYI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/procs_priv.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/servers.MYD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/servers.MYI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/servers.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/slow_log.CSM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/slow_log.CSV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/slow_log.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/tables_priv.MYD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/tables_priv.MYI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/tables_priv.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/time_zone.MYD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/time_zone.MYI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/time_zone.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/time_zone_leap_second.MYD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/time_zone_leap_second.MYI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/time_zone_leap_second.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/time_zone_name.MYD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/time_zone_name.MYI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/time_zone_name.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/time_zone_transition.MYD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/time_zone_transition.MYI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/time_zone_transition.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/time_zone_transition_type.MYD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/time_zone_transition_type.MYI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/time_zone_transition_type.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/user.MYD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/user.MYI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mysql/user.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mywebdb/db.opt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mywebdb/emp.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/mywebdb/emp.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/db.opt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/t_attendance.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/t_attendance.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/t_basic.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/t_basic.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/t_basic_child.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/t_basic_child.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/t_center_ip.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/t_center_ip.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/t_gen_id.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/t_gen_id.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/t_images.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/t_images.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/t_manager.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/t_manager.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/t_network.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/t_network.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/t_network_manager.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/t_network_manager.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/t_purview.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/t_purview.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/t_reportcolumn.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/t_reportcolumn.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/t_requestqueque.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/t_requestqueque.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/t_role.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/t_role.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/t_role_purview.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/t_role_purview.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/t_trans_code.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/t_trans_code.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/t_trans_code_table.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/t_trans_code_table.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/t_workstation.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/t_workstation.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/tbmembership.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/tbmembership.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/tboperlog.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/tboperlog.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/tbosmenu.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/tbosmenu.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/tbosmenufun.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/tbosmenufun.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/tbosrole.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/tbosrole.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/tbosrolemenu.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/tbosrolemenu.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/tbosuser.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/tbosuser.ibd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/transreportview.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/view_view1.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/view_view2.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/newland/viewnetworkstation.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/performance_schema/cond_instances.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/performance_schema/db.opt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/performance_schema/events_waits_current.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/performance_schema/events_waits_history.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/performance_schema/events_waits_history_long.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/performance_schema/events_waits_summary_by_instance.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/performance_schema/events_waits_summary_by_thread_by_event_name.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/performance_schema/events_waits_summary_global_by_event_name.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/performance_schema/file_instances.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/performance_schema/file_summary_by_event_name.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/performance_schema/file_summary_by_instance.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/performance_schema/mutex_instances.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/performance_schema/performance_timers.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/performance_schema/rwlock_instances.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/performance_schema/setup_consumers.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/performance_schema/setup_instruments.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/performance_schema/setup_timers.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/performance_schema/threads.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data/黄愿的笔记本.err" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/columns_priv.MYD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/columns_priv.MYI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/columns_priv.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/db.MYD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/db.MYI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/db.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/event.MYD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/event.MYI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/event.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/func.MYD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/func.MYI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/func.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/general_log.CSM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/general_log.CSV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/general_log.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/help_category.MYD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/help_category.MYI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/help_category.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/help_keyword.MYD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/help_keyword.MYI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/help_keyword.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/help_relation.MYD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/help_relation.MYI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/help_relation.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/help_topic.MYD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/help_topic.MYI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/help_topic.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/host.MYD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/host.MYI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/host.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/ndb_binlog_index.MYD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/ndb_binlog_index.MYI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/ndb_binlog_index.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/plugin.MYD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/plugin.MYI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/plugin.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/proc.MYD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/proc.MYI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/proc.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/procs_priv.MYD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/procs_priv.MYI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/procs_priv.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/servers.MYD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/servers.MYI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/servers.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/slow_log.CSM" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/slow_log.CSV" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/slow_log.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/tables_priv.MYD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/tables_priv.MYI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/tables_priv.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/time_zone.MYD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/time_zone.MYI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/time_zone.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/time_zone_leap_second.MYD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/time_zone_leap_second.MYI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/time_zone_leap_second.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/time_zone_name.MYD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/time_zone_name.MYI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/time_zone_name.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/time_zone_transition.MYD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/time_zone_transition.MYI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/time_zone_transition.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/time_zone_transition_type.MYD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/time_zone_transition_type.MYI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/time_zone_transition_type.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/user.MYD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/user.MYI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/mysql/user.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/performance_schema/cond_instances.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/performance_schema/db.opt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/performance_schema/events_waits_current.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/performance_schema/events_waits_history.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/performance_schema/events_waits_history_long.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/performance_schema/events_waits_summary_by_instance.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/performance_schema/events_waits_summary_by_thread_by_event_name.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/performance_schema/events_waits_summary_global_by_event_name.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/performance_schema/file_instances.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/performance_schema/file_summary_by_event_name.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/performance_schema/file_summary_by_instance.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/performance_schema/mutex_instances.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/performance_schema/performance_timers.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/performance_schema/rwlock_instances.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/performance_schema/setup_consumers.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/performance_schema/setup_instruments.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/performance_schema/setup_timers.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/performance_schema/threads.frm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/data_empty/test/.empty" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/erase_log.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/lib/libmysql.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/lib/libmysqld.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/lib/plugin/adt_null.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/lib/plugin/libdaemon_example.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/lib/plugin/mypluglib.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/lib/plugin/semisync_master.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/lib/plugin/semisync_slave.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/my.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/mysql_start.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/mysql_stop.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/share/charsets/Index.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/share/charsets/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/share/charsets/armscii8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/share/charsets/ascii.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/share/charsets/cp1250.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/share/charsets/cp1251.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/share/charsets/cp1256.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/share/charsets/cp1257.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/share/charsets/cp850.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/share/charsets/cp852.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/share/charsets/cp866.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/share/charsets/dec8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/share/charsets/geostd8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/share/charsets/greek.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/share/charsets/hebrew.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/share/charsets/hp8.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/share/charsets/keybcs2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/share/charsets/koi8r.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/share/charsets/koi8u.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/share/charsets/latin1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/share/charsets/latin2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/share/charsets/latin5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/share/charsets/latin7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/share/charsets/macce.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/share/charsets/macroman.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/share/charsets/swe7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/share/english/errmsg.sys" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/tail.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/mysql5.5.6/view_log.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/帮助信息/修改mysql用户密码 .txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MySQL5.5.6/帮助信息/设置mysql远程访问 .txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/mysql-connector-java-5.1.48.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mvnw.cmd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/CurriculumDesign/SupermarketCashierSystem/HelloApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/CurriculumDesign/SupermarketCashierSystem/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/CurriculumDesign/SupermarketCashierSystem/SupermarketCashierSystemApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/CurriculumDesign/controller/CashierController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/CurriculumDesign/controller/CommodityController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/CurriculumDesign/controller/MemberCustomerController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/CurriculumDesign/dao/CashierDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/CurriculumDesign/dao/CommodityDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/CurriculumDesign/dao/MemberCustomerDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/CurriculumDesign/dao/impl/CashierDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/CurriculumDesign/dao/impl/CommodityDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/CurriculumDesign/dao/impl/MemberCustomerDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/CurriculumDesign/pojo/Cashier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/CurriculumDesign/pojo/Commodity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/CurriculumDesign/pojo/MemberCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/CurriculumDesign/service/CashierService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/CurriculumDesign/service/CommodityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/CurriculumDesign/service/MemberCustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/CurriculumDesign/service/impl/CashierServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/CurriculumDesign/service/impl/CommodityServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/CurriculumDesign/service/impl/MemberCustomerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/CurriculumDesign/util/CRUDUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/CurriculumDesign/util/JDBCUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/CurriculumDesign/util/ReturnUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/org/CurriculumDesign/SupermarketCashierSystem/hello-view.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2ep4tD5yJ7Ph4ggEpzSrPxRCycY" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "project.structure.last.edited": "库",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="org.curriculumdesign.supermarketcashiersystem" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="mysql-connector-java-5.1.48.jar" type="JarApplication" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/lib/mysql-connector-java-5.1.48.jar" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR 应用程序.mysql-connector-java-5.1.48.jar" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="394c0dba-463f-4d33-acca-3e81bb8a6418" name="更改" comment="" />
+      <created>1712588397836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712588397836</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
