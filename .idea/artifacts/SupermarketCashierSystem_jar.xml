@@ -1,0 +1,33 @@
+<component name="ArtifactManager">
+  <artifact name="SupermarketCashierSystem:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SupermarketCashierSystem_jar</output-path>
+    <root id="root">
+      <element id="archive" name="SupermarketCashierSystem.jar">
+        <element id="module-output" name="SupermarketCashierSystem" />
+      </element>
+      <element id="file-copy" path="$PROJECT_DIR$/lib/junit-jupiter-engine-5.8.2.jar" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-base:win:17.0.2" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:17.0.2" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/junit-platform-commons-1.8.2.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/javafx-fxml-17.0.2-win.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/javafx-controls-17.0.2-win.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/javafx-graphics-17.0.2-win.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/javafx-graphics-17.0.2.jar" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-fxml:17.0.2" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-controls:win:17.0.2" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/apiguardian-api-1.1.2.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/junit-jupiter-api-5.8.2.jar" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:17.0.2" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/javafx-base-17.0.2.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/junit-platform-engine-1.8.2.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/javafx-fxml-17.0.2.jar" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-graphics:win:17.0.2" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/javafx-base-17.0.2-win.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/javafx-controls-17.0.2.jar" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/opentest4j-1.2.0.jar" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-base:17.0.2" />
+      <element id="file-copy" path="$PROJECT_DIR$/lib/mysql-connector-java-5.1.48.jar" />
+      <element id="library" level="project" name="Maven: org.openjfx:javafx-fxml:win:17.0.2" />
+    </root>
+  </artifact>
+</component>

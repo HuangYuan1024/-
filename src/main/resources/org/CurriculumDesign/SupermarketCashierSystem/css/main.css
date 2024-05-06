@@ -1,0 +1,36 @@
+/* ListView的竖向滚动条样式 */
+.list-view .scroll-bar:vertical{
+    -fx-pref-width: 0;
+}
+
+/* ListView的横向滚动条样式 */
+.list-view .scroll-bar:horizontal{
+    -fx-pref-height: 0;
+}
+
+.my-button{
+    //-fx-text-fill: RED;
+    -fx-background-color: WHITE;
+    -fx-border-color: BLACK;
+    -fx-font-size: 12px;
+    -fx-min-width: 29px;
+    -fx-min-height: 29px;
+    -fx-pref-width: 29px;
+    -fx-pref-height: 29px;
+}
+
+.list-view-item1{
+    -fx-background-color: #2bcdc5;
+}
+
+.list-view-item2{
+    -fx-background-color: #199377;
+}
+
+.category-button{
+    -fx-background-color: WHITE;
+    -fx-border-color: BLACK;
+    -fx-font-size: 13px;
+    -fx-min-height: 28px;
+    -fx-pref-height: 28px;
+}

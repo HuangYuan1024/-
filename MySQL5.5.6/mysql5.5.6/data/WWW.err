@@ -1,0 +1,55 @@
+150503  0:25:45 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The InnoDB memory heap is disabled
+InnoDB: Mutexes and rw_locks use Windows interlocked functions
+InnoDB: Compressed tables use zlib 1.2.3
+150503  0:25:46  InnoDB: highest supported file format is Barracuda.
+150503  0:25:47 InnoDB 1.1.2 started; log sequence number 9419317
+150503  0:25:48 [Note] Event Scheduler: Loaded 0 events
+150503  0:25:48 [Note] bin\mysqld.exe: ready for connections.
+Version: '5.5.6-rc'  socket: ''  port: 3306  MySQL Community Server (GPL)
+150503  0:26:18 [Note] bin\mysqld.exe: Normal shutdown
+
+150503  0:26:18 [Note] Event Scheduler: Purging the queue. 0 events
+150503  0:26:18  InnoDB: Starting shutdown...
+150503  0:26:22  InnoDB: Shutdown completed; log sequence number 9419789
+150503  0:26:22 [Note] bin\mysqld.exe: Shutdown complete
+
+150503  0:26:53 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The InnoDB memory heap is disabled
+InnoDB: Mutexes and rw_locks use Windows interlocked functions
+InnoDB: Compressed tables use zlib 1.2.3
+150503  0:26:53  InnoDB: highest supported file format is Barracuda.
+150503  0:26:54 InnoDB 1.1.2 started; log sequence number 9419789
+150503  0:26:54 [Note] Event Scheduler: Loaded 0 events
+150503  0:26:54 [Note] bin\mysqld.exe: ready for connections.
+Version: '5.5.6-rc'  socket: ''  port: 3306  MySQL Community Server (GPL)
+150503  0:27:45 [Note] bin\mysqld.exe: Normal shutdown
+
+150503  0:27:45 [Note] Event Scheduler: Purging the queue. 0 events
+150503  0:27:45  InnoDB: Starting shutdown...
+150503  0:27:49  InnoDB: Shutdown completed; log sequence number 9419838
+150503  0:27:49 [Note] bin\mysqld.exe: Shutdown complete
+
+181216 11:49:12 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The InnoDB memory heap is disabled
+InnoDB: Mutexes and rw_locks use Windows interlocked functions
+InnoDB: Compressed tables use zlib 1.2.3
+181216 11:49:13  InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+181216 11:49:13  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+181216 11:49:15 InnoDB 1.1.2 started; log sequence number 9425957
+181216 11:49:17 [Note] Event Scheduler: Loaded 0 events
+181216 11:49:17 [Note] bin\mysqld.exe: ready for connections.
+Version: '5.5.6-rc'  socket: ''  port: 3306  MySQL Community Server (GPL)
+181216 11:49:49 [Note] bin\mysqld.exe: Normal shutdown
+
+181216 11:49:49 [Note] Event Scheduler: Purging the queue. 0 events
+181216 11:49:49  InnoDB: Starting shutdown...
+181216 11:49:50  InnoDB: Shutdown completed; log sequence number 9425999
+181216 11:49:50 [Note] bin\mysqld.exe: Shutdown complete
+

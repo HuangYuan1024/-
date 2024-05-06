@@ -23,7 +23,7 @@ public class CashierDaoImpl implements CashierDao {
      */
     @Override
     public void insertCashier(Cashier cashier) {
-        String sql = "INSERT INTO Cashier(name, account, password) VALUES('" + cashier.getName() + "','" + cashier.getAccount() + "','" + cashier.getPassword() + "')";
+        String sql = "INSERT INTO Cashier(account, password) VALUES('" + cashier.getAccount() + "','" + cashier.getPassword() + "')";
         Object[] objects = new Object[] {};
         update(sql, objects);
     }
@@ -42,13 +42,25 @@ public class CashierDaoImpl implements CashierDao {
     }
 
     /**
+     * 查找全部数据
+     *
+     */
+    @Override
+    public List<Cashier> findAllCashier() {
+        String sql = "SELECT * FROM Cashier";
+        Object[] objects = new Object[] {};
+        List<Cashier> list = query(Cashier.class, sql, objects);
+        return list;
+    }
+
+    /**
      * 修改数据
      *
      * @param cashier 收银员
      */
     @Override
     public void updateCashier(Cashier cashier) {
-        String sql = "UPDATE Cashier SET name = '" + cashier.getName() + "', account = '" + cashier.getAccount() + "', password = '" + cashier.getPassword() + "' WHERE account = '" + cashier.getAccount() + "'";
+        String sql = "UPDATE Cashier SET account = '" + cashier.getAccount() + "', password = '" + cashier.getPassword() + "' WHERE account = '" + cashier.getAccount() + "'";
         Object[] objects = new Object[] {};
         update(sql, objects);
     }

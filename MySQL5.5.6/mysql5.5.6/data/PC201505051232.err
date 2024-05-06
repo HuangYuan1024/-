@@ -1,0 +1,85 @@
+150526 15:12:55 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The InnoDB memory heap is disabled
+InnoDB: Mutexes and rw_locks use Windows interlocked functions
+InnoDB: Compressed tables use zlib 1.2.3
+150526 15:12:55  InnoDB: highest supported file format is Barracuda.
+150526 15:12:56 InnoDB 1.1.2 started; log sequence number 9419838
+150526 15:12:56 [Note] Event Scheduler: Loaded 0 events
+150526 15:12:56 [Note] bin\mysqld.exe: ready for connections.
+Version: '5.5.6-rc'  socket: ''  port: 3306  MySQL Community Server (GPL)
+150601  9:08:55 [Note] Plugin 'FEDERATED' is disabled.
+150601  9:08:55 [Note] Plugin 'FEDERATED' is disabled.
+InnoDn: The Tnn InnoDB ry heap is disablesa
+InnoDB: Mutexes and rw_locks use Windows interlocked functions
+InnoDB: Compressed tables use zlib 1.2.3
+ed
+InnoDB: Mutexes and rw_locks use Windows interlocked functions
+InnoDB: Compressed tables use zlib 1.2.3
+150601  9:08:55  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+150601  9:08:55  InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150601  9:08:55  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150601  9:08:57 InnoDB 1.1.2 started; log sequence number 9424342
+150601  9:08:57 [Note] Event Scheduler: Loaded 0 events
+150601  9:08:57 [Note] bin\mysqld.exe: ready for connections.
+Version: '5.5.6-rc'  socket: ''  port: 3306  MySQL Community Server (GPL)
+150601  9:09:10 [Note] bin\mysqld.exe: Normal shutdown
+
+150601  9:09:10 [Note] Event Scheduler: Purging the queue. 0 events
+150601  9:09:10  InnoDB: Starting shutdown...
+150601  9:09:11 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The InnoDB memory heap is disabled
+InnoDB: Mutexes and rw_locks use Windows interlocked functions
+InnoDB: Compressed tables use zlib 1.2.3
+150601  9:09:11  InnoDB: Operating system error number 32 in a file operation.
+InnoDB: The error means that another program is using InnoDB's files.
+InnoDB: This might be a backup or antivirus software or another instance
+InnoDB: of MySQL. Please close it to get rid of this error.
+150601  9:09:12  InnoDB: Shutdown completed; log sequence number 9424342
+150601  9:09:12 [Note] bin\mysqld.exe: Shutdown complete
+
+150601  9:09:21  InnoDB: highest supported file format is Barracuda.
+150601  9:09:22 InnoDB 1.1.2 started; log sequence number 9424342
+150601  9:09:22 [Note] Event Scheduler: Loaded 0 events
+150601  9:09:22 [Note] bin\mysqld.exe: ready for connections.
+Version: '5.5.6-rc'  socket: ''  port: 3306  MySQL Community Server (GPL)
+150602  9:11:37 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The InnoDB memory heap is disabled
+InnoDB: Mutexes and rw_locks use Windows interlocked functions
+InnoDB: Compressed tables use zlib 1.2.3
+150602  9:11:37  InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150602  9:11:37  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150602  9:11:39 InnoDB 1.1.2 started; log sequence number 9425203
+150602  9:11:39 [Note] Event Scheduler: Loaded 0 events
+150602  9:11:39 [Note] bin\mysqld.exe: ready for connections.
+Version: '5.5.6-rc'  socket: ''  port: 3306  MySQL Community Server (GPL)
+150605 16:58:37 [Note] Plugin 'FEDERATED' is disabled.
+InnoDB: The InnoDB memory heap is disabled
+InnoDB: Mutexes and rw_locks use Windows interlocked functions
+InnoDB: Compressed tables use zlib 1.2.3
+150605 16:58:37  InnoDB: highest supported file format is Barracuda.
+InnoDB: The log sequence number in ibdata files does not match
+InnoDB: the log sequence number in the ib_logfiles!
+150605 16:58:37  InnoDB: Database was not shut down normally!
+InnoDB: Starting crash recovery.
+InnoDB: Reading tablespace information from the .ibd files...
+InnoDB: Restoring possible half-written data pages from the doublewrite
+InnoDB: buffer...
+150605 16:58:38 InnoDB 1.1.2 started; log sequence number 9425600
+150605 16:58:38 [Note] Event Scheduler: Loaded 0 events
+150605 16:58:38 [Note] bin\mysqld.exe: ready for connections.
+Version: '5.5.6-rc'  socket: ''  port: 3306  MySQL Community Server (GPL)

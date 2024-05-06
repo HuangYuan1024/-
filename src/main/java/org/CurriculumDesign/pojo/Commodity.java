@@ -8,17 +8,17 @@ package org.CurriculumDesign.pojo;
 public class Commodity {
 
     // 货号
-    private String articleNumber;
+    public String articleNumber;
     // 名称
-    private String name;
+    public String name;
     // 类别
-    private String category;
+    public String category;
     // 数量/质量
-    private int quantity;
+    public int quantity;
     // 单价
-    private float unitPrice;
-    // 总价
-    private float totalPrice;
+    public float unitPrice;
+    // 拿取数量
+    public int take;
 
     public String getArticleNumber() {
         return articleNumber;
@@ -60,12 +60,12 @@ public class Commodity {
         this.unitPrice = unitPrice;
     }
 
-    public float getTotalPrice() {
-        return totalPrice;
+    public int getTake() {
+        return take;
     }
 
-    public void setTotalPrice(float totalPrice) {
-        this.totalPrice = totalPrice;
+    public void setTake(int take) {
+        this.take = take;
     }
 
 }

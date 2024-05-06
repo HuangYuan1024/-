@@ -2,6 +2,8 @@ package org.CurriculumDesign.dao;
 
 import org.CurriculumDesign.pojo.MemberCustomer;
 
+import java.util.List;
+
 /**
  * 会员顾客数据的CRUD操作的接口类
  *
@@ -23,6 +25,12 @@ public interface MemberCustomerDao {
      * @param cardNumber 卡号
      */
     MemberCustomer findMemberCustomerById(String cardNumber);
+
+    /**
+     * 查找全部数据
+     *
+     */
+    List<MemberCustomer> findAllMemberCustomer();
 
     /**
      * 修改数据

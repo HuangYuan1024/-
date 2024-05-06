@@ -11,7 +11,6 @@ import java.util.List;
 /**
  * 数据库中的Update和Query操作
  *
- * @author 黄愿
  *
  */
 public class CRUDUtil {

@@ -11,7 +11,6 @@ import static org.CurriculumDesign.util.CRUDUtil.update;
 /**
  * 会员顾客数据的CRUD操作的实现类
  *
- * @author 黄愿
  *
  */
 public class MemberCustomerDaoImpl implements MemberCustomerDao {
@@ -23,7 +22,7 @@ public class MemberCustomerDaoImpl implements MemberCustomerDao {
      */
     @Override
     public void insertMemberCustomer(MemberCustomer memberCustomer) {
-        String sql = "INSERT INTO MemberCustomer(name, cardNumber) VALUES('" + memberCustomer.getName() + "','" + memberCustomer.getCardNumber() + "')";
+        String sql = "INSERT INTO MemberCustomer(name, cardNumber, cardPassword, points) VALUES('" + memberCustomer.getName() + "','" + memberCustomer.getCardNumber() + "','" + memberCustomer.getCardPassword() + "','" + memberCustomer.getPoints() + "')";
         Object[] objects = new Object[] {};
         update(sql, objects);
     }
@@ -42,13 +41,25 @@ public class MemberCustomerDaoImpl implements MemberCustomerDao {
     }
 
     /**
+     * 查找全部数据
+     *
+     */
+    @Override
+    public List<MemberCustomer> findAllMemberCustomer() {
+        String sql = "SELECT * FROM MemberCustomer";
+        Object[] objects = new Object[] {};
+        List<MemberCustomer> list = query(MemberCustomer.class, sql, objects);
+        return list;
+    }
+
+    /**
      * 修改数据
      *
      * @param memberCustomer 会员顾客
      */
     @Override
     public void updateMemberCustomer(MemberCustomer memberCustomer) {
-        String sql = "UPDATE MemberCustomer SET name = '" + memberCustomer.getName() + "', cardNumber = '" + memberCustomer.getCardNumber() + "' WHERE cardNumber = '" + memberCustomer.getCardNumber() + "'";
+        String sql = "UPDATE MemberCustomer SET name = '" + memberCustomer.getName() + "', cardNumber = '" + memberCustomer.getCardNumber() + "', cardPassword = '" + memberCustomer.getCardPassword() + "', points = '" + memberCustomer.getPoints() + "' WHERE cardNumber = '" + memberCustomer.getCardNumber() + "'";
         Object[] objects = new Object[] {};
         update(sql, objects);
     }

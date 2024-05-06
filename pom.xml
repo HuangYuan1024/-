@@ -61,8 +61,11 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                org.CurriculumDesign.supermarketcashiersystem/org.CurriculumDesign.SupermarketCashierSystem.HelloApplication
+                                org.CurriculumDesign.SupermarketCashierSystem/org.CurriculumDesign.SupermarketCashierSystem.ToStart
                             </mainClass>
+                            <descriptorRefs>
+                                <descriptorRef>jar-with-dependencies</descriptorRef>
+                            </descriptorRefs>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
                             <jlinkImageName>app</jlinkImageName>

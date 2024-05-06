@@ -5,13 +5,16 @@ import org.CurriculumDesign.dao.impl.CommodityDaoImpl;
 import org.CurriculumDesign.pojo.Commodity;
 import org.CurriculumDesign.service.CommodityService;
 
+import java.util.List;
+
 /**
  * 商品数据的CRUD操作的实现类
  *
- * @author 黄愿
  *
  */
 public class CommodityServiceImpl implements CommodityService {
+
+    public CommodityServiceImpl() {}
 
     // 持久层对象
     CommodityDao dao = new CommodityDaoImpl();
@@ -34,6 +37,15 @@ public class CommodityServiceImpl implements CommodityService {
     @Override
     public Commodity findCommodityById(String articleNumber) {
         return dao.findCommodityById(articleNumber);
+    }
+
+    /**
+     * 查找全部数据
+     *
+     */
+    @Override
+    public List<Commodity> findAllCommodity() {
+        return dao.findAllCommodity();
     }
 
     /**

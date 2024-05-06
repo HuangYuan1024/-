@@ -1,14 +1,7 @@
 package org.CurriculumDesign.util;
 
-import java.io.InputStream;
 import java.sql.*;
-import java.util.Properties;
 
-/**
- *
- * @author 黄愿
- *
- */
 public class JDBCUtils {
     /**
      * @return SQL连接器

@@ -11,7 +11,6 @@ import static org.CurriculumDesign.util.CRUDUtil.update;
 /**
  * 商品数据的CRUD操作的实现类
  *
- * @author 黄愿
  *
  */
 public class CommodityDaoImpl implements CommodityDao {
@@ -23,7 +22,7 @@ public class CommodityDaoImpl implements CommodityDao {
      */
     @Override
     public void insertCommodity(Commodity commodity) {
-        String sql = "INSERT INTO Commodity(articleNumber, name, category, quantity, unitPrice, totalPrice) VALUES('" + commodity.getArticleNumber() + "','" + commodity.getName() + "','" + commodity.getCategory() + "','" + commodity.getQuantity() + "','" + commodity.getUnitPrice() + "','" + commodity.getTotalPrice() + "')";
+        String sql = "INSERT INTO Commodity(articleNumber, name, category, quantity, unitPrice, take) VALUES('" + commodity.getArticleNumber() + "','" + commodity.getName() + "','" + commodity.getCategory() + "','" + commodity.getQuantity() + "','" + commodity.getUnitPrice() + "','" + commodity.getTake() + "')";
         Object[] objects = new Object[] {};
         update(sql, objects);
     }
@@ -42,13 +41,25 @@ public class CommodityDaoImpl implements CommodityDao {
     }
 
     /**
+     * 查找全部数据
+     *
+     */
+    @Override
+    public List<Commodity> findAllCommodity() {
+        String sql = "SELECT * FROM Commodity";
+        Object[] objects = new Object[] {};
+        List<Commodity> list = query(Commodity.class, sql, objects);
+        return list;
+    }
+
+    /**
      * 修改数据
      *
      * @param commodity 商品
      */
     @Override
     public void updateCommodity(Commodity commodity) {
-        String sql = "UPDATE Commodity SET articleNumber = '" + commodity.getArticleNumber() + "', name = '" + commodity.getName() + "', category = '" + commodity.getCategory() + "', quantity = '" + commodity.getQuantity() + "', unitPrice = '" + commodity.getUnitPrice() + "', totalPrice = '" + commodity.getTotalPrice() + "' WHERE articleNumber = '" + commodity.getArticleNumber() + "'";
+        String sql = "UPDATE Commodity SET articleNumber = '" + commodity.getArticleNumber() + "', name = '" + commodity.getName() + "', category = '" + commodity.getCategory() + "', quantity = '" + commodity.getQuantity() + "', unitPrice = '" + commodity.getUnitPrice() + "', take = '" + commodity.getTake() + "' WHERE articleNumber = '" + commodity.getArticleNumber() + "'";
         Object[] objects = new Object[] {};
         update(sql, objects);
     }

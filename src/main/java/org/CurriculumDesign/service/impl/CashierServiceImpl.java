@@ -5,10 +5,11 @@ import org.CurriculumDesign.dao.impl.CashierDaoImpl;
 import org.CurriculumDesign.pojo.Cashier;
 import org.CurriculumDesign.service.CashierService;
 
+import java.util.List;
+
 /**
  * 收银员数据的CRUD操作的实现类
  *
- * @author 黄愿
  *
  */
 public class CashierServiceImpl implements CashierService {
@@ -34,6 +35,15 @@ public class CashierServiceImpl implements CashierService {
     @Override
     public Cashier findCashierById(String account) {
         return dao.findCashierById(account);
+    }
+
+    /**
+     * 查找全部数据
+     *
+     */
+    @Override
+    public List<Cashier> findAllCashier() {
+        return dao.findAllCashier();
     }
 
     /**

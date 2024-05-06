@@ -2,6 +2,8 @@ package org.CurriculumDesign.dao;
 
 import org.CurriculumDesign.pojo.Commodity;
 
+import java.util.List;
+
 /**
  * 商品数据的CRUD操作的接口类
  *
@@ -23,6 +25,12 @@ public interface CommodityDao {
      * @param articleNumber 货号
      */
     Commodity findCommodityById(String articleNumber);
+
+    /**
+     * 查找全部数据
+     *
+     */
+    List<Commodity> findAllCommodity();
 
     /**
      * 修改数据

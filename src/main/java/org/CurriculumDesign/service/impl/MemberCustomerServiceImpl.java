@@ -5,10 +5,11 @@ import org.CurriculumDesign.dao.impl.MemberCustomerDaoImpl;
 import org.CurriculumDesign.pojo.MemberCustomer;
 import org.CurriculumDesign.service.MemberCustomerService;
 
+import java.util.List;
+
 /**
  * 会员顾客数据的CRUD操作的实现类
  *
- * @author 黄愿
  *
  */
 public class MemberCustomerServiceImpl implements MemberCustomerService {
@@ -34,6 +35,15 @@ public class MemberCustomerServiceImpl implements MemberCustomerService {
     @Override
     public MemberCustomer findMemberCustomerById(String cardNumber) {
         return dao.findMemberCustomerById(cardNumber);
+    }
+
+    /**
+     * 查找全部数据
+     *
+     */
+    @Override
+    public List<MemberCustomer> findAllMemberCustomer() {
+        return dao.findAllMemberCustomer();
     }
 
     /**
